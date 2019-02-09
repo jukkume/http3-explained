@@ -54,6 +54,6 @@ establishing and using QUIC connections across the Internet has increased.
 
 ## 개선될 것인가?
 
-QUIC이 인터넷 세상에 가치를 더할 수 있음이 증명한다면 사람들은 사용하기를 원할 것이고 자신들에
+QUIC이 인터넷 세상에 가치를 더할 수 있음을 증명한다면 사람들은 사용하기를 원할 것이고 자신들에
 네트워크에서 동작하기를 원할 것입니다. 회사는 자신들의 장애물을 검토하기 시작할 것입니다.
 수년간 QUIC 개발이 진행되어 인터넷에서 QUIC 연결을 수립하고 사용하는 성공률이 증가했습니다.
